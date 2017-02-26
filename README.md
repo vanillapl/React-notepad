@@ -1,6 +1,6 @@
 # React-App-Notepad
 A notepad built with Reactjs, Nodejs and Webpack
-```
+
 # Install
 ```
 git clone https://github.com/georgecedward/express-mad.git
