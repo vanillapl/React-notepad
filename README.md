@@ -3,7 +3,7 @@ A notepad built with Reactjs, Nodejs and Webpack
 
 # Install
 ```
-git clone https://github.com/georgecedward/React-App-Notepad.git
+git clone https://github.com/edwardcgeorge/React-App-Notepad.git
 cd React-App-Notepad
 npm install
 npm start
