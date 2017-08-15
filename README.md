@@ -12,4 +12,4 @@ Enter this application through `http://localhost:3500`
 
 Sample page:
 
-![Image](https://github.com/edwardcgeorge/React-notepad/blob/master/sample.png)
+<img src="https://github.com/edwardcgeorge/React-notepad/blob/master/sample.png" height="300" width="580"></img>
