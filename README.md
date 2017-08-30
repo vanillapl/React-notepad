@@ -1,7 +1,7 @@
 # React-App-Notepad
 A notepad built with Reactjs, Nodejs and Webpack
 
-Demo availble at my personal blog www.oncelife.me
+Demo availble at my personal [blog](www.oncelife.me)
 
 # Install
 ```
